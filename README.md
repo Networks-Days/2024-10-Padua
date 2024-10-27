@@ -22,3 +22,11 @@ Networks Days :: Padua 10/2024
 |                 |                 | Andrea Giansanti, U. Sapienza                              | Protein-protein interaction networks co-evolution of degree connectivity and codon bias in bacterial genomes |                                     |
 |                 |                 | Michele Allegra, U. Padova / Padua Neuroscience Center     | Controlling target brain regions by optimal selection of input nodes                            |                                     |
 |                 | 13:30-15:00     | Lunch                                                     | -                                                                                               |                                     |
+
+
+## Local Organizing Committee
+
+* M. De Domenico, CoMuNe Lab @ U. Padua (*Chair and Program Chair*)
+* V. d’Andrea, CoMuNe Lab @ U. Padua
+* M. Faccin, CoMuNe Lab @ U. Padua
+* T. Scagliarini, CoMuNe Lab @ U. Padua
