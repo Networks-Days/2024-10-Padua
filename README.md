@@ -30,3 +30,5 @@ Networks Days :: Padua 10/2024
 * V. d’Andrea, CoMuNe Lab @ U. Padua
 * M. Faccin, CoMuNe Lab @ U. Padua
 * T. Scagliarini, CoMuNe Lab @ U. Padua
+
+![](pics/networkdays_2024_padua.jpg)
